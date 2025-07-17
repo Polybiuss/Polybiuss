@@ -14,7 +14,8 @@
                 <img width=96% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Polybiuss&hide_border=true&border_radius=15&theme=tokyonight" alt="Polybiuss's GitHub graph" style="height: 100%; width: 100%; object-fit: cover;">
             </td>
             <td style="vertical-align: stretch; height: 100%;">
-              <a href="https://profile.intra.42.fr/users/jbergos"><img src="https://badge.mediaplus.ma/greenbinary/jbergos?1337Badge=off&UM6P=off" alt="jbergos's 42 stats" style="height: 100%; width: 100%; object-fit: cover;"/></a>
+              <a href="https://profile.intra.42.fr/users/jbergos"><img src="https://badge.mediaplus.ma/colorfulwaves/jbergos?1337Badge=off&UM6P=off" alt="jbergos's 42 stats" style="height: 100%; width: 100%; object-fit: cover;"/>
+              </a>
             </td>
         </tr>
     </table>
